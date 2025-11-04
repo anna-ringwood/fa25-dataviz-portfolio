@@ -16,7 +16,7 @@ The below visualization depicts trends in the debt-to-GDP ratio for several nati
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
+<br></br>
 
 The second visualization below depicts the distribution of debt-to-GDP ratios for countries across time. Viewers will note the considerably larger variation in 2020 and 2021 (i.e., the height of COVID) followed by smaller variations in more recent years, suggesting either a lack of data in 2020-2021 or that ratios are indeed no longer as spread out as they had been during the pandemic.
 

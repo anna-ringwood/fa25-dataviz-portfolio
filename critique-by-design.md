@@ -55,23 +55,23 @@ I incorporated the feedback about the numbers vs. percentages from my classmates
 
 ## Step Four, Part Two: Test the Solution
 
-For this part, I asked some people who are less data-savvy (excluding the AP Stats teacher) to review my two options. Their feedback from my interviews (~10 minutes each) is below. The males were given the bar graph first to look at, then the treemap. The females saw the treemap first, then the bar graph. (It's certainly not the most perfect randomization strategy.)
+For this part, I asked some people who are less data-savvy (excluding the AP Stats teacher) to review my two options. Their feedback from my interviews (~10 minutes each) is below. The males were given the bar graph first to look at, then the treemap. The females saw the treemap first, then the bar graph. (Admittedly, it's best randomization strategy, but I did try.)
 
 **Bar Chart Results:**
 
 | Question |Interview 1 (late-50s male, music librarian)|Interview 2 (early-50s female, AP Statistics teacher)|Interview 3 (early-20s female, undergraduate junior)|Interview 4 (early-20s male, engineer)|
 |----------|-------------|-------------|-------------|-------------|
 |What do you think this graph is trying to show you?|"To which countries the U.S. has exported semi-automatic firearms, and they are ranked in descending order."|*Did not provide a direct answer*|*Did not provide a direct answer*|"I see Thailand is purchasing a bunch of firearms."|
-|What is confusing or what would you change about this graph?|What do the different colors mean? They do reinforce the descending nature of the data, but one would expect to see a legend defining the colors.|Use of 'cumulative' in the x-axis label makes it sound like the countries should be added together|Liked the numbers over the percents|
-|Other thoughts?|Liked the counts placed at the ends of the bars|Colors don't bother her as much because they are colored by quintile|Prefers this one to the treemap| |
+|What is confusing or what would you change about this graph?|What do the different colors mean? They do reinforce the descending nature of the data, but one would expect to see a legend defining the colors.|Use of "cumulative" in the x-axis label makes it sound like the countries should be added together|Liked the numbers over the percents|Colors seem unnecessary, but he could see how it might depend on the audience|
+|Other thoughts?|Liked the counts placed at the ends of the bars|Colors didn't bother her as much (relative to treemap) because they are colored by quintile|Preferred this one to the treemap|"Font" is not ideal; "Bar graph is simpler."|
 
 **Treemap Results:**
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|What do you think this graph is trying to show you?|             |             |
-|          |             |             |
-|          |             |             |
+| Question |Interview 1 (late-50s male, music librarian)|Interview 2 (early-50s female, AP Statistics teacher)|Interview 3 (early-20s female, undergraduate junior)|Interview 4 (early-20s male, engineer)|
+|----------|-------------|-------------|-------------|-------------|
+|What do you think this graph is trying to show you?|Not entirely sure what he was supposed to take away from it|"We're sending most of our firearms to Thailand, Canada, and the Philippines."|"Who the U.S. exports our firearms to"|*Did not provide a direct answer*|
+|What is confusing or what would you change about this graph?|Brazil's rectangle is the only 2% one that is vertically-oriented|Why are blocks of the same size different colors? Subtitle is also confusing, makes it seem like 21% of total U.S. exports to Thailand are firearms|
+|Other thoughts?|Not easily viewed on a small (i.e., phone) screen|Two-column format is distracting; let the top three countries occupy the full width of the space| |Thailand number seems less significant now that it's contextualized by "Others"|
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 

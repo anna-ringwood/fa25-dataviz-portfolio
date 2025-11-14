@@ -10,9 +10,9 @@ The visualization I chose to redesign is shown below. This one stood out to me d
 
 <img src="images/CritiqueByDesignOriginalViz.jpg" width="2000"/>
 
-Visualization source: Michael Riley et al., "Mass US-Made Gun Exports Are Fueling Violence, Shootings Globally," Bloomberg, July 24, 2023, https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/.
+Visualization source: Riley et al., "Mass US-Made Gun Exports Are Fueling Violence, Shootings Globally."
 
-Data source: "US Domestic Manufactured Semiautomatic Gun Exports 2005-2022," May 12, 2024, https://data.world/makeovermonday/2024w20-us-made-gun-exports-2005-2022/workspace/file?filename=US+Domestic+Manufactured+Semiautomatic+Gun+Exports+2005-2022.csv.
+Data source: "US Domestic Manufactured Semiautomatic Gun Exports 2005-2022.Csv."
 
 ## Step Two: The Critique
 
@@ -117,13 +117,15 @@ At last, we arrive at the final solution below.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+---
+
 In conclusion, I found this process very insightful. In selecting the original visualization to redesign (step one), I saw a number of different visualization types and critically considered their potential for use in this exercise. In critiquing the selected visualization (step two), I learned about two evaluation frameworks (from _Good Charts_ and the Data Visualization Effectiveness Profile) and applied them to an existing visualization. In sketching my own solutions (step three), I gained a better understanding of the specific choices that must go into creating a visualization (e.g., color, size, shape, white space, etc.). In interviewing others for feedback (step four), I was exposed to the wide range of ways in which people consume and interpret visual information. Finally, in creating my own solution (step five), I gained experience in synthesizing my own learning and external sources to present one cohesive final product. This exercise has ultimately equipped me with the tools and cognitive processes I need to carefully design and review visualizations going forward.
 
 ## References
-* Michael Riley et al., "Mass US-Made Gun Exports Are Fueling Violence, Shootings Globally," Bloomberg, July 24, 2023, https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/.
+* Michael Riley et al., "Mass US-Made Gun Exports Are Fueling Violence, Shootings Globally," Bloomberg, July 24, 2023, [https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/).
 * Scott Berinato, *Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations* (Harvard Business School Publishing Corporation, 2023).
-* Stephen Few. "Data Visualization Effectiveness Profile." *Visual Business Intelligence Newsletter,* March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
-* "US Domestic Manufactured Semiautomatic Gun Exports 2005-2022," May 12, 2024, https://data.world/makeovermonday/2024w20-us-made-gun-exports-2005-2022/workspace/file?filename=US+Domestic+Manufactured+Semiautomatic+Gun+Exports+2005-2022.csv.
+* Stephen Few. "Data Visualization Effectiveness Profile." *Visual Business Intelligence Newsletter,* March 2017. [https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+* "US Domestic Manufactured Semiautomatic Gun Exports 2005-2022," May 12, 2024, [https://data.world/makeovermonday/2024w20-us-made-gun-exports-2005-2022/workspace/file?filename=US+Domestic+Manufactured+Semiautomatic+Gun+Exports+2005-2022.csv](https://data.world/makeovermonday/2024w20-us-made-gun-exports-2005-2022/workspace/file?filename=US+Domestic+Manufactured+Semiautomatic+Gun+Exports+2005-2022.csv).
 
 ## AI Acknowledgements
 AI was used briefly to help me with some more advanced Tableau features as I experimented with my later attempts (e.g., adding a reference line to the bar chart and aggregating the non-top-20 countries into an "Others" category).

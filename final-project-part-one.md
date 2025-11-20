@@ -1,6 +1,12 @@
 | [Home](https://anna-ringwood.github.io/fa25-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Outline
+# A Whale of a Story!
+
+<img src="images/two_humpback_whales.jpg" height="500" alt="A picture of two humpback whales swimming underwater"/>
+
+Photo by Elianne Dipp from [pexels.com](https://www.pexels.com/photo/humpback-whales-underwater-4666753/)
+
+## Outline
 
 Whales contribute greatly to protecting our planet! By storing carbon in their large bodies, they prevent it from returning to the atmosphere as carbon dioxide [1]. Even after they die, their remains sink to the bottom of the ocean where they provide nutrients for deep-sea life [2]. However, harmful human behavior like whaling, boat traffic, and pollution can endanger these majestic, gentle giants [3]. Although commercial whaling officially stopped in the U.S. in 1972 [4], we continue to encroach upon the territory of whales, leading to injuries, undue stress, early deaths, and shrinking populations for these creatures.
 
@@ -28,7 +34,7 @@ Story arc:
 
 <img src="images/TSWD_StoryArc.png" height="500"/>
 
-## Initial sketches (NOTE: These DO NOT represent the actual data in any way!)
+### Initial sketches (NOTE: These DO NOT represent the actual data in any way!)
 
 *See future parts for accurate visualizations.*
 
@@ -50,7 +56,7 @@ Finally, I will visualize the relations between whale sightings, boat characteri
 
 <img src="images/TSWD_ProjectSketchScatterplot.png" height="350"/>
 
-# The data
+## The data
 
 The data I am planning to use can be found in the table below. The data sets are all publicly accessible, though the whale sighting data does require an email address to download it. I plan to visualize the whale sighting data over time using a series of maps to show how sighting frequency has changed. I will look at multiple whale species and both the U.S. east and west coasts to gain a holistic picture of the oceanic environment. The years for which this data is available will determine the years I use to filter the remaining data sets.
 
@@ -64,16 +70,16 @@ A third data set is contaminant data as measured by the NOAA's Mussel Watch prog
 |U.S. DOT Maritime Administration (MARAD)|[Click here](https://www.maritime.dot.gov/data-reports/data-statistics/vessel-inventory-reports-july-1990)|Records of all privately-owned, U.S.-flagged vessels and their characteristics (e.g., weight, year built, etc.) since 1990.|
 |National Centers for Coastal Ocean Science (NCCOS) contaminant data|[Click here](https://experience.arcgis.com/experience/d72d9e057ce946f79217fa61dd8b8da2/page/Download-Analytes)|Data for PFAS contamination levels on U.S. coasts.|
 
-# Method and medium
+## Method and medium
 
 I plan to complete my final project using a combination of ArcGIS Pro and Tableau for visualizing whale sightings, boat characteristics, and pollution trends. Then I will use Shorthand to compile all my visualizations and research into a final product.
 
-## References
+### References
 1. "Whales and Carbon Sequestration: Can Whales Store Carbon?," NOAA Fisheries, August 12, 2025, National, https://www.fisheries.noaa.gov/feature-story/whales-and-carbon-sequestration-can-whales-store-carbon.
 2. NOAA Fisheries, “Whales and Carbon Sequestration.”
 3. "Current Threats," New Bedford Whaling Museum, March 1, 2021, https://www.whalingmuseum.org/research/research-resources/whale-science/current-threats/.
 4. New Bedford Whaling Museum, "Current Threats."
 5. “Mussel Watch,” _NCCOS - National Centers for Coastal Ocean Science_, n.d., accessed November 18, 2025, https://coastalscience.noaa.gov/science-areas/pollution/mussel-watch/. 
 
-## AI acknowledgements
+### AI acknowledgements
 AI was not used in this part of the project.

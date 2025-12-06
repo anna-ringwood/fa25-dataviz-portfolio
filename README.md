@@ -13,26 +13,20 @@ Once I graduate, I'd like to find work in or adjacent to a public school distric
 
 # Portfolio
 
-## Data Visualization Critiques
-(Coming soon!)
+## Assignment: [Visualizing Government Debt](dataviz-examples)
 
-## Visualization Sketches
-(Coming soon!)
+The goal of this assignment was to take data and derive a story from it. The data were diverse and conducive to developing several stories, so this was a first pass at parsing out which pieces of the story I wanted to tell.
 
-## Final Project
-(Coming soon!)
+## Assignment: [Critique by Design](critique-by-design)
 
-# Examples
-The examples below are placeholders for when I have projects to display (i.e., not my own projects). After all, it's only been one week since the quarter started!
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+The goal of this assignment was to redesign an existing visualization and practice soliciting feedback from others.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+
+For my final project, I explored the impact that human behaviors (e.g., boating/shipping, fishing, consuming seafood, etc.) have on oceans and their inhabitants. Specifically, I focused on the West Coast of the United States (i.e., Northeast Pacific Ocean) and collected data on whale sightings, reports of dead or distressed whales, shipping patterns, and fishing stocks. I described some of the interactions between humans and whales in the ocean, and concluded with a series of recommendations for boaters, coastal dwellers, and seafood consumers on how they can help protect whales and their habitat.
+
+[Part I](final-project-part-one) involved brainstorming the "story" that I hoped to tell with the data I had found. This part includes some rough sketches of ideas for visualizations.
+
+[Part II](final-project-part-two) involved turning my sketches into quality visualizations and showing them to my intended audience for their feedback. I also further hashed out my storyline.
+
+[Part III](final-project-part-three) involved refining the visualizations and storyline to create the [finished product](https://carnegiemellon.shorthandstories.com/an-oceanic-tail/index.html).

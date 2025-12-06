@@ -2,7 +2,7 @@
 
 # The final data story
 
-The link to my final data story is coming soon!
+The link to my final data story is [here](https://carnegiemellon.shorthandstories.com/an-oceanic-tail/index.html).
 
 # Changes made since Part II
 

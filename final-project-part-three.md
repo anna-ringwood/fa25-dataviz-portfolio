@@ -28,7 +28,7 @@ AI was used for some Tableau troubleshooting.
 
 # Final thoughts
 
-I really enjoyed this project, mostly because I got to talk about whales :whale: :whale: :whale: In all seriousness, I appreciated the challenge of trying to boil a long story down to one minute, and I also felt that I got good exposure to a wide range of visualization tools (Tableau, Datawrapper, keplergl, and even ArcGIS), though I didn't use all of them for my story specifically.
+I really enjoyed this project, mostly because I got to talk about whales! In all seriousness, I appreciated the challenge of trying to boil a long story down to one minute, and I also felt that I got good exposure to a wide range of visualization tools (Tableau, Datawrapper, keplergl, and even ArcGIS), though I didn't use all of them for my story specifically.
 
 I unfortunately ran into a bit of a time crunch towards the end, so the final Shorthand isn't as polished as I'd like it to be. Mainly, I wish I had more time to look for better data and make additional visualizations to support my story. However, I am thinking that I might keep working on this a little bit over winter break! I hope both to explore more visualization techniques and refine the ideas I've had so far. I got most excited about the whale sighting data, because it seemed like something I wouldn't have been able to access publicly, but fortunately the researchers who maintain the data have made it available for projects like this one.
 

@@ -1,7 +1,7 @@
 | [Home](https://anna-ringwood.github.io/fa25-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Welcome!
-This is my public portfolio with visualizations created for the Telling Stories with Data class at CMU! 
+This is my public portfolio with visualizations created for the Telling Stories with Data class at CMU! For the header links to work correctly, experience this repository as a [website](https://anna-ringwood.github.io/fa25-dataviz-portfolio/). 
 
 # About me
 I am in my second and final year of my master's degree at Heinz College at CMU. I am studying public policy and data analytics, with a particular interest in K-12 education policy. My other policy areas of interest are affordable housing and healthcare. Please feel free to reach out if you have any questions about what you see here or just want to connect!

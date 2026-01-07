@@ -4,7 +4,7 @@
 This is my public portfolio with visualizations created for the Telling Stories with Data class at CMU! For the header links to work correctly, experience this repository as a [website](https://anna-ringwood.github.io/fa25-dataviz-portfolio/). 
 
 # About me
-I am in my second and final year of my master's degree at Heinz College at CMU. I am studying public policy and data analytics, with a particular interest in K-12 education policy. My other policy areas of interest are affordable housing and healthcare. Please feel free to reach out if you have any questions about what you see here or just want to connect!
+As of October 2025, I am in my second and final year of my master's degree at Heinz College at CMU. I am studying public policy and data analytics, with a particular interest in K-12 education policy. My other policy areas of interest are affordable housing and healthcare. Please feel free to reach out if you have any questions about what you see here or just want to connect!
 
 # What I hope to learn
 I'm taking this course because I have witnessed the importance of good data visualizations in conveying messages to stakeholders. I want to refine my design skills and expand my knowledge about visualization practices so that I can craft meaningful figures and, most importantly, *tell the story* of the data.
